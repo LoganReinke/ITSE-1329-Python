@@ -1,4 +1,5 @@
 while True:
-    # Your code here
-
+   r = input("Would you like a refill? ")
+   if r == "no":
+       break # Your code here
 print('Have a nice day')
