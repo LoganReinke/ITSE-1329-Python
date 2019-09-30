@@ -2,5 +2,6 @@
 
 fav_word = "supercalifragilisticexpialidocious"
 
-# Your code below
+x = len(fav_word)
+print (x)
 
