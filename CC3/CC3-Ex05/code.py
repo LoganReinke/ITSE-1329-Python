@@ -1,4 +1,3 @@
-#Define your make_noise function below
-
-
-#Then, call make_noise once:
+def make_noise():
+    print("THE CROWD GOES WILD")
+make_noise()
